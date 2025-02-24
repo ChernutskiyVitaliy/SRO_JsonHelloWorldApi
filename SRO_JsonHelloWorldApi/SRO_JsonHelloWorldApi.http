@@ -1,0 +1,6 @@
+@SRO_JsonHelloWorldApi_HostAddress = http://localhost:5098
+
+GET {{SRO_JsonHelloWorldApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
